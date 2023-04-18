@@ -1,0 +1,3 @@
+﻿CREATE MESSAGE TYPE [AuditLogMessageType]
+	AUTHORIZATION [dbo]
+	VALIDATION = NONE;
